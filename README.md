@@ -12,21 +12,12 @@ Project ini mengembangkan pipeline **image processing klasik** (tanpa deep learn
 
 ### Teknologi
 
-<<<<<<< HEAD
 | Komponen    | Keterangan                 |
 | ----------- | -------------------------- |
 | Bahasa      | Python 3.8+                |
 | Library     | OpenCV, NumPy, Matplotlib  |
 | Environment | Google Colab               |
 | Pendekatan  | Classical Image Processing |
-=======
-| Komponen | Keterangan |
-|---|---|
-| Bahasa | Python 3.8+ |
-| Library | OpenCV, NumPy, Matplotlib |
-| Environment | Google Colab |
-| Pendekatan | Classical Image Processing |
->>>>>>> 31b6ad7caf7f3b0d5e178009ab9cde7369e69b6e
 
 ---
 
