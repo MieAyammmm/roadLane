@@ -8,10 +8,12 @@ Implementasi pipeline **Image Processing klasik** untuk deteksi garis marka jala
 
 ### Teknologi
 
-- **Language:** Python 3.8+
-- **Framework:** OpenCV, NumPy, Matplotlib
-- **Environment:** Google Colab
-- **Approach:** Classical Image Processing (Canny Edge Detection + Hough Line Transform)
+| Komponen | Keterangan |
+|---|---|
+| Bahasa | Python 3.8+ |
+| Library | OpenCV, NumPy, Matplotlib |
+| Environment | Google Colab |
+| Pendekatan | Classical Image Processing |
 
 ---
 
