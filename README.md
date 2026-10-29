@@ -26,7 +26,7 @@ Project ini mengembangkan pipeline **image processing klasik** (tanpa deep learn
 | Pertemuan | Tanggal      | Fokus                       | Pendekatan                    | Status          | Detail                            |
 | --------- | ------------ | --------------------------- | ----------------------------- | --------------- | --------------------------------- |
 | 1         | [24/09/2026] | Setup & deteksi garis marka | Canny + HoughLinesP           | ✅ Selesai      | [README](./Pertemuan-1/README.md) |
-| 2         | [12/10/2026] | Segmentasi area jalur       | HSV + Contour                 | ✅ Selesai      | [README](./Prtemuan-2/README.md)  |
+| 2         | [12/10/2026] | Segmentasi area jalur       | HSV + Contour                 | ✅ Selesai      | [README](./Pertemuan-2/README.md) |
 | 3         | [DD/MM/YYYY] | Tambahan area bahu jalan    | HSV + Contour + LSD vs RANSAC | ⏳ Direncanakan | —                                 |
 
 ---
