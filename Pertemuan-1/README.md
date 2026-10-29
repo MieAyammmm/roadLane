@@ -1,6 +1,6 @@
 # Pertemuan 1: Deteksi Garis Marka Jalan (Canny + HoughLinesP)
 
-**Tanggal:** [24/09/2026]
+**Tanggal:** 24/09/2026
 **Durasi:** 60 menit
 **Status:** ✅ Selesai
 
@@ -69,9 +69,9 @@ INPUT (RGB)
 
 ## Catatan Pembimbing
 
-| Tanggal      | Masukan / Koreksi                                                                    | Tindak Lanjut                                    | Status |
-| ------------ | ------------------------------------------------------------------------------------ | ------------------------------------------------ | ------ |
-| [12/09/2026] | Pakai pendekatan yang berbeda dengan fokus pada area jalan menggunakan HSV + Contoyr | Deteksi area jalur jalan menggunakan HSV Contour | ✅     |
+| Tanggal    | Masukan / Koreksi                                                                    | Tindak Lanjut                                    | Status |
+| ---------- | ------------------------------------------------------------------------------------ | ------------------------------------------------ | ------ |
+| 24/09/2026 | Pakai pendekatan yang berbeda dengan fokus pada area jalan menggunakan HSV + Contoyr | Deteksi area jalur jalan menggunakan HSV Contour | ✅     |
 
 ---
 
